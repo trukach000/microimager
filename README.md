@@ -1,0 +1,1 @@
+Simple golang http microservice fro loading, saving and resizing images. 
